@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **princenigam972@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/princ/Downloads/Prince_Resume.pdf](file:///C:/Users/princ/Downloads/Prince_Resume.pdf)
+- 📄 Know about my experiences [file:///C:/Users/princ/Downloads/Prince_Nigam_Resume..pdf](file:///C:/Users/princ/Downloads/Prince_Nigam_Resume..pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
