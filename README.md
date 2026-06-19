@@ -14,8 +14,9 @@
 
 - 📫 How to reach me **princenigam972@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/princ/Downloads/Prince_Nigam_Resume..pdf]
-- 
+- 📄 Know about my experiences [Resume](file:///C:/Users/princ/Downloads/Prince_Nigam_Resume..pdf)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/peince nigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peince nigam" height="30" width="40" /></a>
