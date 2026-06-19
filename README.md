@@ -1,4 +1,4 @@
-![logo](https://github.com/Prince-Nigam/Prince-Nigam/blob/main/Canva%20Image%20Jun%2017%2C%202026%2C%2011_25_45%20AM.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Prince Nigam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
