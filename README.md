@@ -10,12 +10,11 @@
 
 - 🌱 I’m currently learning **B.Tech Computer Science**
 
-- 👨‍💻 All of my projects are available at (https://prince-nigam-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://prince-nigam-portfolio.netlify.app/](https://prince-nigam-portfolio.netlify.app/)
 
 - 📫 How to reach me **princenigam972@gmail.com**
 
-- 📄 Know about my experiences [Resume](file:///C:/Users/princ/Downloads/Prince_Nigam_Resume..pdf)
-
+- 📄 Know about my experiences [file:///C:/Users/princ/Downloads/Prince_Nigam_Resume..pdf](file:///C:/Users/princ/Downloads/Prince_Nigam_Resume..pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
