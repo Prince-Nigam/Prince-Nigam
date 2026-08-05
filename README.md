@@ -1,110 +1,189 @@
-# Hi 👋, I'm Prince Nigam
-
-<h3 align="center">
-Full Stack Software Engineer | MERN Stack | React.js | Next.js | Node.js | TypeScript | Salesforce Developer
-</h3>
+<h1 align="center">Prince Nigam</h1>
 
 <p align="center">
-Passionate Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and Salesforce technologies. I enjoy solving real-world problems, developing clean and efficient software, and continuously learning modern technologies.
+Software Engineer • Full Stack Developer • MERN Stack • Salesforce Developer
 </p>
 
 <p align="center">
-  <a href="https://prince-nigam-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="https://www.linkedin.com/in/prince-nigam-60227528a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:princenigam972@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://prince-nigam-portfolio.netlify.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/prince-nigam-60227528a">LinkedIn</a> •
+<a href="https://drive.google.com/file/d/1IBRWSCNPf5ScCnhJfzxfG-jY1HT1s5H_/view?usp=sharing">Resume</a> •
+<a href="mailto:princenigam972@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 💼 Full Stack Software Developer specializing in **MERN Stack & Salesforce**
-- 🚀 Passionate about building scalable, responsive, and user-friendly web applications
-- 🌱 Currently strengthening **Data Structures & Algorithms, System Design, and Backend Development**
-- 🎯 Seeking **Software Engineer (SDE-1), Full Stack Developer, and Salesforce Developer** opportunities
+I'm a **Final-Year Computer Science (Data Science)** student and **Full Stack Software Developer** passionate about building scalable web applications.
+
+I have experience developing **6+ production-level projects** using React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, and Salesforce technologies.
+
+My interests include
+
+- Full Stack Development
+- Backend Engineering
+- Salesforce Development
+- AI-powered Applications
+- System Design
+- Data Structures & Algorithms
+
+Currently looking for **Software Engineer (SDE-1)** and **Full Stack Developer** opportunities.
 
 ---
 
-## 📄 Resume & Portfolio
+# 💼 Experience
 
-- 📄 **Resume:** https://drive.google.com/file/d/1IBRWSCNPf5ScCnhJfzxfG-jY1HT1s5H_/view?usp=sharing
-- 🌐 **Portfolio:** https://prince-nigam-portfolio.netlify.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/prince-nigam-60227528a
-- 📧 **Email:** princenigam972@gmail.com
+### Salesforce Development Intern
+
+**Placement Management System**
+
+- Developed 12+ Lightning Web Components
+- Built scalable Apex Controllers and Apex Triggers
+- Created 25+ optimized SOQL/SOSL queries
+- Automated placement workflows
+- Improved performance and reduced manual effort
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
+
+## 🛒 Fresh Grocery Mart
+
+Full Stack MERN Grocery Platform
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+### Features
+
+- Authentication
+- Product Catalog
+- Shopping Cart
+- Order Management
+- Responsive UI
+- REST APIs
+
+---
+
+## 🤖 JARVIS AI Voice Assistant
+
+Desktop Voice Assistant built using Python.
+
+### Features
+
+- Speech Recognition
+- Desktop Automation
+- AI Chat Integration
+- 50+ Voice Commands
+- Wake Word Detection
+
+---
+
+## 🔐 Secure Vault
+
+Secure credential & file management application.
+
+### Features
+
+- SHA-256 Encryption
+- Web Crypto API
+- Secure Authentication
+- Responsive UI
+
+---
+
+## 🎓 Placement Management System
+
+Salesforce Application
+
+### Technologies
+
+- Apex
+- Lightning Web Components
+- SOQL
+- SOSL
+- Salesforce Flow
+
+### Features
+
+- Student Registration
+- Company Management
+- Application Tracking
+- Placement Dashboard
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-JavaScript • TypeScript • Python • Java • C++ • SQL
+
+JavaScript • TypeScript • Python • Java • C++ • SQL • PHP
 
 ### Frontend
-React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+React.js • Next.js • HTML • CSS • Tailwind CSS • Bootstrap
 
 ### Backend
+
 Node.js • Express.js • REST APIs
 
 ### Database
-MongoDB • MySQL
+
+MongoDB • MySQL • PostgreSQL
 
 ### Salesforce
-Apex • Lightning Web Components (LWC) • SOQL • SOSL
 
-### Tools
-Git • GitHub • Postman • VS Code • Vercel • Render • Netlify
+Apex • Lightning Web Components • SOQL • SOSL • Apex Triggers
 
----
+### Cloud & Tools
 
-## 🚀 Featured Projects
-
-### 🛒 Fresh Grocery Mart
-A responsive MERN-based grocery e-commerce platform with authentication, product management, and secure checkout.
-
-### 📚 StudyHub LMS
-A full-stack Learning Management System with authentication, role-based access, quizzes, course management, and an admin dashboard.
-
-### 🔐 Secure Vault
-A secure file storage application featuring authentication, encryption, and protected file management.
-
-### 🤖 J.A.R.V.I.S
-An AI-powered desktop voice assistant with speech recognition, desktop automation, and intelligent chatbot capabilities.
+Git • GitHub • VS Code • AWS • GCP • Postman • Render • Vercel
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Nigam&show_icons=true&theme=github_dark" />
-</p>
+<!-- GitHub Stats -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Nigam&theme=github-dark" />
-</p>
+<!-- Top Languages -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Nigam&layout=compact&theme=github_dark" />
-</p>
+<!-- Streak Stats -->
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 Achievements
 
-<p align="left">
-<a href="https://www.linkedin.com/in/prince-nigam-60227528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://prince-nigam-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="mailto:princenigam972@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Prince-Nigam"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/princenigam972"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/princenigam972"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
-</p>
+🏅 Smart India Hackathon Participant
+
+🏅 Deloitte Data Analytics Job Simulation
+
+🏅 Tata GenAI Data Analytics Simulation
+
+🏅 Google Cloud Foundation & Generative AI Certified
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 📫 Connect With Me
+
+Portfolio
+
+LinkedIn
+
+Resume
+
+Email
+
+GitHub
+
+LeetCode
+
+HackerRank
+
+---
+
+> *"Building scalable software that solves real-world problems."*
